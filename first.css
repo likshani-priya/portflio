@@ -1,0 +1,66 @@
+body{
+    background-image:radial-gradient(MistyRose,LightGoldenRodYellow,PeachPuff)
+}
+header{
+    text-align: center;
+    margin-top: 90px;
+    font-size:4em;
+}
+#sub{
+    font-size:2em;
+    margin-left: 670px;
+}
+#lead
+{
+    margin: 50px;
+    font-size:1.3em;
+}
+
+div
+{
+   margin-left: 450px;
+}
+.para
+{
+    margin: 50px;
+    font-size: 1.1em;
+}
+.link
+{
+    margin-left: 550px;
+}
+ #box3{
+           background-color:purple;
+           height: 150px;
+           width: 150px;
+           animation-name:myslide2;
+           animation-duration: 5s;
+           border: 4px solid azure;
+           color: azure;
+           text-align: center;
+        }
+        @keyframes myslide2
+        {
+            from{margin-left: 100%;}
+            to{margin-left: 0%;}
+        }
+        /* #box5{
+           background-color:purple;
+           height: 150px;
+           width: 150px;
+           animation-name:myslide4;
+           animation-duration: 5s;
+           border: 4px solid azure;
+           color: azure;
+           text-align: center;
+        }
+        @keyframes myslide4
+        {
+            from{margin-left: 100%;}
+            to{margin-left: 0%;}
+        } */
+        .alert
+        {
+          margin-left:60px !important;
+          width: 1200px;
+        }
