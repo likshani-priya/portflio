@@ -1,0 +1,1 @@
+This project is created using HTML, CSS, and Bootstrap. The main entry file of the website is home.html, which acts as the homepage and provides navigation to the other sections. All styling and structure are neatly organized to ensure a clean and user-friendly interface.
